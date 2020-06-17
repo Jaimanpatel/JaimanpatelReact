@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JaimanpatelReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/JaimanpatelReact/static/js/main.abed5052.chunk.js",
+    "main.js.map": "/JaimanpatelReact/static/js/main.abed5052.chunk.js.map",
+    "runtime-main.js": "/JaimanpatelReact/static/js/runtime-main.e94ec0da.js",
+    "runtime-main.js.map": "/JaimanpatelReact/static/js/runtime-main.e94ec0da.js.map",
+    "static/js/2.b072d574.chunk.js": "/JaimanpatelReact/static/js/2.b072d574.chunk.js",
+    "static/js/2.b072d574.chunk.js.map": "/JaimanpatelReact/static/js/2.b072d574.chunk.js.map",
+    "index.html": "/JaimanpatelReact/index.html",
+    "precache-manifest.c9a0ac0bbfe900ec182f762428d3abd5.js": "/JaimanpatelReact/precache-manifest.c9a0ac0bbfe900ec182f762428d3abd5.js",
+    "service-worker.js": "/JaimanpatelReact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/JaimanpatelReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b072d574.chunk.js.LICENSE.txt": "/JaimanpatelReact/static/js/2.b072d574.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/JaimanpatelReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e94ec0da.js",
+    "static/js/2.b072d574.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.abed5052.chunk.js"
+  ]
+}
