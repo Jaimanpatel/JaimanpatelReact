@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c399279de0ebe45d89adedfdc896512a",
+    "revision": "d7dd49e669728e5a81fb1a9195e026c1",
     "url": "/JaimanpatelReact/index.html"
   },
   {
-    "revision": "2fb9ce1964d56e2d54c6",
+    "revision": "11bdef0348ca8753d541",
     "url": "/JaimanpatelReact/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "2544c88692b3191d0a45",
+    "revision": "c6bfe7f2bec4ff3a3008",
     "url": "/JaimanpatelReact/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "2fb9ce1964d56e2d54c6",
-    "url": "/JaimanpatelReact/static/js/2.6f05c701.chunk.js"
+    "revision": "11bdef0348ca8753d541",
+    "url": "/JaimanpatelReact/static/js/2.092a392f.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/JaimanpatelReact/static/js/2.6f05c701.chunk.js.LICENSE.txt"
+    "revision": "3453b8997016469371284a28c0e873e2",
+    "url": "/JaimanpatelReact/static/js/2.092a392f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2544c88692b3191d0a45",
-    "url": "/JaimanpatelReact/static/js/main.cef80640.chunk.js"
+    "revision": "c6bfe7f2bec4ff3a3008",
+    "url": "/JaimanpatelReact/static/js/main.7637b038.chunk.js"
   },
   {
     "revision": "5f298d88ca79df38457b",
