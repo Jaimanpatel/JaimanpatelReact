@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/JaimanpatelReact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/JaimanpatelReact/static/js/main.e4cab139.chunk.js",
-    "main.js.map": "/JaimanpatelReact/static/js/main.e4cab139.chunk.js.map",
+    "main.css": "/JaimanpatelReact/static/css/main.a4d02d2e.chunk.css",
+    "main.js": "/JaimanpatelReact/static/js/main.e3273c34.chunk.js",
+    "main.js.map": "/JaimanpatelReact/static/js/main.e3273c34.chunk.js.map",
     "runtime-main.js": "/JaimanpatelReact/static/js/runtime-main.e94ec0da.js",
     "runtime-main.js.map": "/JaimanpatelReact/static/js/runtime-main.e94ec0da.js.map",
     "static/css/2.af3c1da9.chunk.css": "/JaimanpatelReact/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.195d18d2.chunk.js": "/JaimanpatelReact/static/js/2.195d18d2.chunk.js",
-    "static/js/2.195d18d2.chunk.js.map": "/JaimanpatelReact/static/js/2.195d18d2.chunk.js.map",
+    "static/js/2.5c6d9ef3.chunk.js": "/JaimanpatelReact/static/js/2.5c6d9ef3.chunk.js",
+    "static/js/2.5c6d9ef3.chunk.js.map": "/JaimanpatelReact/static/js/2.5c6d9ef3.chunk.js.map",
     "index.html": "/JaimanpatelReact/index.html",
-    "precache-manifest.c51e4dfc3007eb33093daf2a03186147.js": "/JaimanpatelReact/precache-manifest.c51e4dfc3007eb33093daf2a03186147.js",
+    "precache-manifest.162308e9e350889bdaeac50acdf674d2.js": "/JaimanpatelReact/precache-manifest.162308e9e350889bdaeac50acdf674d2.js",
     "service-worker.js": "/JaimanpatelReact/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/JaimanpatelReact/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/JaimanpatelReact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.195d18d2.chunk.js.LICENSE.txt": "/JaimanpatelReact/static/js/2.195d18d2.chunk.js.LICENSE.txt",
+    "static/css/main.a4d02d2e.chunk.css.map": "/JaimanpatelReact/static/css/main.a4d02d2e.chunk.css.map",
+    "static/js/2.5c6d9ef3.chunk.js.LICENSE.txt": "/JaimanpatelReact/static/js/2.5c6d9ef3.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/JaimanpatelReact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e94ec0da.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.195d18d2.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e4cab139.chunk.js"
+    "static/js/2.5c6d9ef3.chunk.js",
+    "static/css/main.a4d02d2e.chunk.css",
+    "static/js/main.e3273c34.chunk.js"
   ]
 }
